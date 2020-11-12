@@ -4,13 +4,14 @@
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
+		font-family: 'Times New Roman', Times, serif;
 }
 
 @font-face {
 		font-weight: normal;
 		font-style: normal;
 		font-family: 'ecoicons';
-		src: url("../fonts/ecoicons/ecoicons.eot");
+		src: url("../fonts/ecoicons/UTM Avo.ttf");
 		src: url("../fonts/ecoicons/ecoicons.eot?#iefix") format("embedded-opentype"), url("../fonts/ecoicons/ecoicons.woff") format("woff"), url("../fonts/ecoicons/ecoicons.ttf") format("truetype"), url("../fonts/ecoicons/ecoicons.svg#ecoicons") format("svg");
 }
 
@@ -49,7 +50,7 @@
 .no-touch .gn-menu-main a:hover,
 .no-touch .gn-menu li.gn-search-item:hover,
 .no-touch .gn-menu li.gn-search-item:hover a {
-		background: #5f6f81;
+		background: black;
 		color: white;
 }
 
